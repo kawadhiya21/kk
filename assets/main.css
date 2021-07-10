@@ -1104,8 +1104,9 @@ a:hover{
     }
 
     #Page7 .image .im{
-    width:50%;
+    width:100%;
     height:100%;
+    background-position-y: 0px;
     }
     
     #Page2 p{
@@ -1358,6 +1359,14 @@ a:hover{
     }
     #D5{
         display:none;
+    }
+
+    #img05 {
+        background-position-y: -120px;
+    }
+
+    #Page7 .partyList h2 {
+       line-height: 30px;
     }
 
 }
