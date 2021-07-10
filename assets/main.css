@@ -868,10 +868,11 @@ a:hover{
 }
 
 #Page7 .image .im{
-    width:55.9rem;
-    height:100%;
+    width:110rem;
+    height:75%;
     position:relative;
     float:left;
+    background-position-y: -190px;
 }
 
 #Page7 #story{
@@ -1019,7 +1020,7 @@ a:hover{
 }
 
 #img06{
-    background:url('images/img-06.jpg') center center no-repeat;
+    background:url('fam_b.jpg') center center no-repeat;
     background-size: cover;
     margin:0rem .5rem 9rem 3.6rem;
     background-color:#ffffff;
